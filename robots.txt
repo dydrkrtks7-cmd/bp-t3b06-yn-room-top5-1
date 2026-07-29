@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dangsan-karaoke-bar-note.banpo-massage-review.xyz/sitemap.xml
